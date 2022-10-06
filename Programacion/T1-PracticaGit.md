@@ -1,1 +1,1 @@
-![foto](‪~/Desktop/GIT/cloncaptura.png)
+![foto](‪./Desktop/GIT/cloncaptura.png)
