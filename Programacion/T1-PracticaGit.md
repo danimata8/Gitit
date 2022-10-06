@@ -1,1 +1,1 @@
-![foto](‪./img(cloncaptura.png)
+![foto](‪./img/(cloncaptura.png)
